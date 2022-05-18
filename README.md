@@ -1,6 +1,7 @@
 
 <h1 align="center">Projetos de progressos em JavaScript </h1>
 <p align="justify"> Contador número em que se tem dois botões, um para aumentar o valor e outro para diminuir </p>
+<img> src= "https://github.com/Neves-Adriano/js.GV-barradeprogresso/issues/1#issue-1239345626" </img>
  ![GitHub Logo](![2022-05-17 (1)]
  (https://user-images.githubusercontent.com/77058888/168945825-0266971a-705e-4bab-9c3d-3375db81a758.png)
  
